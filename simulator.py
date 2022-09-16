@@ -1,6 +1,9 @@
 # Python Based TVC simulator
 #Imports 
 import turtle
+import sympy as sym
+import matplotlib.pyplot as plt
+import numpy as np
 class constants:
     gravity = 9.81
     burnTime = 
